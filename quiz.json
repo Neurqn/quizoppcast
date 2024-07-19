@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of tennis with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is a deuce?",
+      "answers": ["40-40", "30-30", "15-15"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is Federer?",
+      "answers": ["Player", "Coach", "Ref"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is an ace?",
+      "answers": ["Serve", "Fault", "Volley"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a lob?",
+      "answers": ["Shot", "Serve", "Fault"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a let?",
+      "answers": ["Redo", "Fault", "Ace"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who won 2022 Wimbledon?",
+      "answers": ["Novak", "Nadal", "Med"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a rally?",
+      "answers": ["Exchange", "Serve", "Ace"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Serena?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a break?",
+      "answers": ["Win game", "Lose set", "Win set"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is love?",
+      "answers": ["Zero", "Forty", "Fifteen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a tiebreak?",
+      "answers": ["Decider", "Set", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Nadal?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a volley?",
+      "answers": ["Shot", "Serve", "Fault"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a baseline?",
+      "answers": ["Line", "Net", "Shot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a set?",
+      "answers": ["6 games", "3 games", "2 games"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a fault?",
+      "answers": ["Error", "Serve", "Shot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a slice?",
+      "answers": ["Shot", "Serve", "Fault"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Djokovic?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an overhead?",
+      "answers": ["Smash", "Serve", "Volley"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a drop shot?",
+      "answers": ["Soft shot", "Serve", "Volley"],
       "correctAnswerIndex": 0
     }
   ]
